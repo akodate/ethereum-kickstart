@@ -21,5 +21,5 @@ export default () => {
 
       </Menu.Menu>
     </Menu>
-  )
+  );
 }
