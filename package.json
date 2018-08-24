@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev",
+    "dev": "node server.js",
     "test": "mocha"
   },
   "license": "MIT",
@@ -12,6 +12,7 @@
     "ganache-cli": "^6.1.8",
     "mocha": "^5.2.0",
     "next": "4.1.4",
+    "next-routes": "^1.4.2",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "semantic-ui-react": "^0.82.3",
